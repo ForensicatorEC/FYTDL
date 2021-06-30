@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 
-# FYTDL v1.0
-# Developed by: Elison O. Cepeda
-# Technical Editor: Tim Xiang
-
 import os
 import logging
 import logging.handlers
